@@ -2,10 +2,10 @@
 
 - **Company :** CODTECH IT SOLUTIONS
 
-**ID :** CT08DS8392
+- **ID :** CT08DS8392
 
-**Domain :** Front-End Development
+- **Domain :** Front-End Development
 
-**Duration :** September to October 2024
+- **Duration :** September to October 2024
 
-**Mentor :** Neela Santhosh Kumar
+- **Mentor :** Neela Santhosh Kumar
