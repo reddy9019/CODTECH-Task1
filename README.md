@@ -1,6 +1,6 @@
-**Name :** B Thimmareddy
+- **Name :** B Thimmareddy
 
-**Company :** CODTECH IT SOLUTIONS
+- **Company :** CODTECH IT SOLUTIONS
 
 **ID :** CT08DS8392
 
