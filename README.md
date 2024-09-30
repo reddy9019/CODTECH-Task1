@@ -3,7 +3,7 @@
 - **ID :** CT08DS8392
 - **Domain :** Front-End Development
 - **Duration :** September to October 2024
-- **Mentor :** Neela Santhosh Kumar
+- **Mentor :** Neela Santhosh Kumar 
 
 ## Overview of the Project
 ### Project:Personal Website Portfolio
